@@ -21,7 +21,7 @@ var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
 const prefix = "%";
-client.login("");
+client.login("OTQ2NzY4Mzc1NzgxMTMwMzIx.Yhjgwg.4LzhfOJwMC__IUf7owMUwTDPsaU");
 client.on("ready", async () => {
   console.log(`Logged in as ${client.user.username}!`);
   client.user.setStatus("idle");
@@ -64,7 +64,7 @@ client.on("message", async message => {
 ━──╮•╭──━
 
 __ [Vote](link top gg) __  
-__ [invite](invitebot) __  __ [Support](https://discord.gg/cetGQvWD3h) __
+__ [invite](https://discord.com/api/oauth2/authorize?client_id=946768375781130321&permissions=8&scope=bot) __  __ [Support](https://discord.gg/dgecZqD8Tb) __
 
 `);
     message.channel.send(help);
